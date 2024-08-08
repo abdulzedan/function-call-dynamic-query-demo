@@ -15,5 +15,6 @@
             "username": "zedan_10",
             "password": "Winter_123"
         }
-    ]
+    ],
+    "python.REPL.enableREPLSmartSend": false
 }
